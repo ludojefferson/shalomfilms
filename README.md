@@ -1,4 +1,4 @@
-# 🎬 Shalom Films - Soluções em Películas de Vidro
+# Shalom Films - Soluções em Películas de Vidro
 
 > **Status:** ✅ Projeto Finalizado  
 > **Acesse o site:** [shalomfilms.vercel.app](https://shalomfilms.vercel.app/)
