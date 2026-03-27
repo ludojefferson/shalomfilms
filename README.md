@@ -13,7 +13,7 @@ A aplicação foi construída priorizando a **velocidade de carregamento** e a *
 
 ---
 
-## 🛠️ Engenharia de Software & Escolhas Técnicas
+## Escolhas Técnicas
 
 Para este projeto, apliquei as melhores práticas de desenvolvimento Front-end:
 
